@@ -157,7 +157,7 @@
       'schedule.amountReceived': 'Amount Received',
       
       // Footer
-      'footer.copyright': 'Copyright © 2025 OpticoreAI.com',
+      'footer.developedBy': 'Developed by Engr. Ashir Ali',
       
       // Terms and Conditions Page
       'terms.title': 'Terms of Service',
@@ -397,7 +397,8 @@
       'schedule.amountReceived': 'المبلغ المستلم',
       
       // Footer
-      'footer.copyright': 'حقوق النشر © 2025 OpticoreAI.com',
+    
+      'footer.developedBy': 'Developed by Engr. Ashir Ali',
       
       // Terms and Conditions Page
       'terms.title': 'شروط الخدمة',
