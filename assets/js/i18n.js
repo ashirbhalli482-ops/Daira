@@ -157,7 +157,7 @@
       'schedule.amountReceived': 'Amount Received',
       
       // Footer
-      'footer.developedBy': 'Developed by Engr. Ashir Ali',
+      'footer.developedBy': 'Developed and Maintain by Engr. Ashir Ali',
       
       // Terms and Conditions Page
       'terms.title': 'Terms of Service',
@@ -398,7 +398,7 @@
       
       // Footer
     
-      'footer.developedBy': 'Developed by Engr. Ashir Ali',
+      'footer.developedBy': 'Developed and Maintain by Engr. Ashir Ali',
       
       // Terms and Conditions Page
       'terms.title': 'شروط الخدمة',
